@@ -1,0 +1,1 @@
+# amashy.github.io
