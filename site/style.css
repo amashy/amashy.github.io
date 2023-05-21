@@ -95,3 +95,13 @@ body {
 .img {
     height: 60px;
 }
+@media screen and (max-width: 745px) {
+    .main {
+    height: 650px;
+    width: 500px;
+    }
+    .icons li {
+    margin-right: 15px;
+    margin-left: 15px;
+    }
+}
